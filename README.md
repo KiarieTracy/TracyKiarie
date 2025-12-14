@@ -24,7 +24,7 @@ I am passionate about learning how technology works and applying that knowledge 
 ### 🔹 Regional Integration Smart Platform (RSIP)
 A software project designed to support regional cooperation through a centralized digital platform.
 
-📁 View Project: [`rsip/`](./rsip)
+📁🎥 Project Pitch Video: [Watch here]([./rsip](https://youtube.com/shorts/q7SefYOaTOw?si=CK_y9MzQamINtKaO))
 
 ---
 
