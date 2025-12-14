@@ -48,6 +48,8 @@ The Regional Integration Smart Platform (RSIP) is a software project aimed at im
 
 ## Project Status
 Academic Project – In Progress
+📊 Project Presentation Slides: [View slide deck](https://docs.google.com/presentation/d/1FFuaxudusDvwH1iyXKMcHllLKz9RLo-T/edit?usp=sharing&ouid=115727449607343108896&rtpof=true&sd=true))
+
 📁🎥 Project Pitch Video: [Watch here]([./rsip](https://youtube.com/shorts/q7SefYOaTOw?si=CK_y9MzQamINtKaO))
 
 ---
